@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @83Factorial
+- 👀 I’m interested in backend technologies and programming on go
+- 🌱 I’m currently learning python in order to develop myself as a backend developer
+- 📫 You can contact me on 83factorial@gmail.com
